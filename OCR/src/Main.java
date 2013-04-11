@@ -15,7 +15,6 @@ public class Main {
 		int XLength = 0;
 		int YLength = 0;
 		
-		
 		ArrayList<VectorColor> testList = new ArrayList<VectorColor>();
 		
 		Scanner scan = new Scanner(System.in);
