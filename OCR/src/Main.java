@@ -16,7 +16,6 @@ public class Main {
 		int YLength = 0;
 		
 		ArrayList<VectorColor> testList = new ArrayList<VectorColor>();
-		
 		Scanner scan = new Scanner(System.in);
 		System.out.print("File path:");
 		String path = scan.next();
