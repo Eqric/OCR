@@ -14,7 +14,7 @@ public class Main {
 	public static void main(String args[]) throws IOException{
 		int XLength = 0;
 		int YLength = 0;
-		
+		// Hej Marcus
 		ArrayList<VectorColor> testList = new ArrayList<VectorColor>();
 		Scanner scan = new Scanner(System.in);
 		System.out.print("File path:");
