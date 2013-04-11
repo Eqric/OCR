@@ -11,9 +11,6 @@ import java.awt.image.BufferedImage;
 
 
 public class Main {
-	
-	 
-	
 	public static void main(String args[]) throws IOException{
 		int XLength = 0;
 		int YLength = 0;
